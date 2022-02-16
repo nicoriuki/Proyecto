@@ -223,7 +223,7 @@ hr {
 .ubicacion {
       display: inline-block;
       margin: 10px;
-      width: 50%;
+      width: 70%;
       margin: 5px;
       border: 1px solid black;
       border-radius: 5px;
@@ -232,8 +232,9 @@ hr {
       margin: 10px;
       font-size: 25px;
 }
-.ubicacion__img {
-      width: 50%;
+.ubicacion__mapa {
+      width: 80%;
+      height: 400px;
       margin: 10px;
 }
 /*CONTACTO*/
@@ -339,6 +340,19 @@ hr {
       .article-servicios {
             width: auto;
       }
+      /*  .ubicacion {
+            display: inline-block;
+            margin: 10px;
+            width: 400px;
+            margin: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+      }
+      .ubicacion__mapa {
+            width: 80%;
+            height: 400px;
+            margin: 10px;
+      } */
       .contacto {
             width: auto;
       }
